@@ -1,0 +1,10 @@
+#equal_to_four.rb, Correct the error message!
+
+def equal_to_four(x)
+    if x == 4
+      puts "yup"
+    else
+      puts "nope"
+    end
+end  
+  equal_to_four(4)
